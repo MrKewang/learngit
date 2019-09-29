@@ -1,0 +1,5 @@
+i = input()
+if i == 'helloworld':
+	print('nihao')
+else:
+	print('no')
