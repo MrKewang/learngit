@@ -1,2 +1,3 @@
 从头开始学习GIT 加油！
 
+Creating a new branch is quick.
